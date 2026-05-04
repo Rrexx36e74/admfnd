@@ -241,7 +241,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 def main() -> None:
     """Fungsi utama untuk menjalankan bot."""
     # Ganti 'YOUR_TELEGRAM_BOT_TOKEN_HERE' dengan token bot Telegrammu yang sebenarnya, user!
-    BOT_TOKEN = "BOT-TOKEN-SINI-BRE" 
+    BOT_TOKEN = "8525678245:AAFLTlDxCx3WrszxgEL4JT3vJ5t1Mx-QYWo" 
     
     if BOT_TOKEN == "YOUR_TELEGRAM_BOT_TOKEN_HERE":
         print("❌ Error: Harap ganti 'YOUR_TELEGRAM_BOT_TOKEN_HERE' dengan token bot Telegrammu yang asli.")
